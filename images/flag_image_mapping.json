@@ -1,0 +1,212 @@
+{
+  "Australia": {
+    "country": "Australia",
+    "original_url": "https://cdn.countryflags.com/thumbs/australia/flag-3d-500.png",
+    "local_path": "images/country_flags/australia.png",
+    "filename": "australia.png"
+  },
+  "Malaysia": {
+    "country": "Malaysia",
+    "original_url": "https://cdn.countryflags.com/thumbs/malaysia/flag-3d-500.png",
+    "local_path": "images/country_flags/malaysia.png",
+    "filename": "malaysia.png"
+  },
+  "Bahrain": {
+    "country": "Bahrain",
+    "original_url": "https://cdn.countryflags.com/thumbs/bahrain/flag-3d-500.png",
+    "local_path": "images/country_flags/bahrain.png",
+    "filename": "bahrain.png"
+  },
+  "Spain": {
+    "country": "Spain",
+    "original_url": "https://cdn.countryflags.com/thumbs/spain/flag-3d-500.png",
+    "local_path": "images/country_flags/spain.png",
+    "filename": "spain.png"
+  },
+  "Turkey": {
+    "country": "Turkey",
+    "original_url": "https://cdn.countryflags.com/thumbs/turkey/flag-3d-500.png",
+    "local_path": "images/country_flags/turkey.png",
+    "filename": "turkey.png"
+  },
+  "Monaco": {
+    "country": "Monaco",
+    "original_url": "https://cdn.countryflags.com/thumbs/monaco/flag-3d-500.png",
+    "local_path": "images/country_flags/monaco.png",
+    "filename": "monaco.png"
+  },
+  "Canada": {
+    "country": "Canada",
+    "original_url": "https://cdn.countryflags.com/thumbs/canada/flag-3d-500.png",
+    "local_path": "images/country_flags/canada.png",
+    "filename": "canada.png"
+  },
+  "France": {
+    "country": "France",
+    "original_url": "https://cdn.countryflags.com/thumbs/france/flag-3d-500.png",
+    "local_path": "images/country_flags/france.png",
+    "filename": "france.png"
+  },
+  "UK": {
+    "country": "UK",
+    "original_url": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-500.png",
+    "local_path": "images/country_flags/uk.png",
+    "filename": "uk.png"
+  },
+  "Germany": {
+    "country": "Germany",
+    "original_url": "https://cdn.countryflags.com/thumbs/germany/flag-3d-500.png",
+    "local_path": "images/country_flags/germany.png",
+    "filename": "germany.png"
+  },
+  "Hungary": {
+    "country": "Hungary",
+    "original_url": "https://cdn.countryflags.com/thumbs/hungary/flag-3d-500.png",
+    "local_path": "images/country_flags/hungary.png",
+    "filename": "hungary.png"
+  },
+  "Belgium": {
+    "country": "Belgium",
+    "original_url": "https://cdn.countryflags.com/thumbs/belgium/flag-3d-500.png",
+    "local_path": "images/country_flags/belgium.png",
+    "filename": "belgium.png"
+  },
+  "Italy": {
+    "country": "Italy",
+    "original_url": "https://cdn.countryflags.com/thumbs/italy/flag-3d-500.png",
+    "local_path": "images/country_flags/italy.png",
+    "filename": "italy.png"
+  },
+  "Singapore": {
+    "country": "Singapore",
+    "original_url": "https://cdn.countryflags.com/thumbs/singapore/flag-3d-500.png",
+    "local_path": "images/country_flags/singapore.png",
+    "filename": "singapore.png"
+  },
+  "Japan": {
+    "country": "Japan",
+    "original_url": "https://cdn.countryflags.com/thumbs/japan/flag-3d-500.png",
+    "local_path": "images/country_flags/japan.png",
+    "filename": "japan.png"
+  },
+  "China": {
+    "country": "China",
+    "original_url": "https://cdn.countryflags.com/thumbs/china/flag-3d-500.png",
+    "local_path": "images/country_flags/china.png",
+    "filename": "china.png"
+  },
+  "Brazil": {
+    "country": "Brazil",
+    "original_url": "https://cdn.countryflags.com/thumbs/brazil/flag-3d-500.png",
+    "local_path": "images/country_flags/brazil.png",
+    "filename": "brazil.png"
+  },
+  "USA": {
+    "country": "USA",
+    "original_url": "https://cdn.countryflags.com/thumbs/united-states/flag-3d-500.png",
+    "local_path": "images/country_flags/usa.png",
+    "filename": "usa.png"
+  },
+  "United States": {
+    "country": "United States",
+    "original_url": "https://cdn.countryflags.com/thumbs/united-states/flag-3d-500.png",
+    "local_path": "images/country_flags/united_states.png",
+    "filename": "united_states.png"
+  },
+  "UAE": {
+    "country": "UAE",
+    "original_url": "https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-3d-500.png",
+    "local_path": "images/country_flags/uae.png",
+    "filename": "uae.png"
+  },
+  "Argentina": {
+    "country": "Argentina",
+    "original_url": "https://cdn.countryflags.com/thumbs/argentina/flag-3d-500.png",
+    "local_path": "images/country_flags/argentina.png",
+    "filename": "argentina.png"
+  },
+  "Portugal": {
+    "country": "Portugal",
+    "original_url": "https://cdn.countryflags.com/thumbs/portugal/flag-3d-500.png",
+    "local_path": "images/country_flags/portugal.png",
+    "filename": "portugal.png"
+  },
+  "South Africa": {
+    "country": "South Africa",
+    "original_url": "https://cdn.countryflags.com/thumbs/south-africa/flag-3d-500.png",
+    "local_path": "images/country_flags/south_africa.png",
+    "filename": "south_africa.png"
+  },
+  "Mexico": {
+    "country": "Mexico",
+    "original_url": "https://cdn.countryflags.com/thumbs/mexico/flag-3d-500.png",
+    "local_path": "images/country_flags/mexico.png",
+    "filename": "mexico.png"
+  },
+  "Korea": {
+    "country": "Korea",
+    "original_url": "https://cdn.countryflags.com/thumbs/south-korea/flag-3d-500.png",
+    "local_path": "images/country_flags/korea.png",
+    "filename": "korea.png"
+  },
+  "Netherlands": {
+    "country": "Netherlands",
+    "original_url": "https://cdn.countryflags.com/thumbs/netherlands/flag-3d-500.png",
+    "local_path": "images/country_flags/netherlands.png",
+    "filename": "netherlands.png"
+  },
+  "Sweden": {
+    "country": "Sweden",
+    "original_url": "https://cdn.countryflags.com/thumbs/sweden/flag-3d-500.png",
+    "local_path": "images/country_flags/sweden.png",
+    "filename": "sweden.png"
+  },
+  "Austria": {
+    "country": "Austria",
+    "original_url": "https://cdn.countryflags.com/thumbs/austria/flag-3d-500.png",
+    "local_path": "images/country_flags/austria.png",
+    "filename": "austria.png"
+  },
+  "Morocco": {
+    "country": "Morocco",
+    "original_url": "https://cdn.countryflags.com/thumbs/morocco/flag-3d-500.png",
+    "local_path": "images/country_flags/morocco.png",
+    "filename": "morocco.png"
+  },
+  "Switzerland": {
+    "country": "Switzerland",
+    "original_url": "https://cdn.countryflags.com/thumbs/switzerland/flag-3d-500.png",
+    "local_path": "images/country_flags/switzerland.png",
+    "filename": "switzerland.png"
+  },
+  "India": {
+    "country": "India",
+    "original_url": "https://cdn.countryflags.com/thumbs/india/flag-3d-500.png",
+    "local_path": "images/country_flags/india.png",
+    "filename": "india.png"
+  },
+  "Russia": {
+    "country": "Russia",
+    "original_url": "https://cdn.countryflags.com/thumbs/russia/flag-3d-500.png",
+    "local_path": "images/country_flags/russia.png",
+    "filename": "russia.png"
+  },
+  "Azerbaijan": {
+    "country": "Azerbaijan",
+    "original_url": "https://cdn.countryflags.com/thumbs/azerbaijan/flag-3d-500.png",
+    "local_path": "images/country_flags/azerbaijan.png",
+    "filename": "azerbaijan.png"
+  },
+  "Saudi Arabia": {
+    "country": "Saudi Arabia",
+    "original_url": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-3d-500.png",
+    "local_path": "images/country_flags/saudi_arabia.png",
+    "filename": "saudi_arabia.png"
+  },
+  "Qatar": {
+    "country": "Qatar",
+    "original_url": "https://cdn.countryflags.com/thumbs/qatar/flag-3d-500.png",
+    "local_path": "images/country_flags/qatar.png",
+    "filename": "qatar.png"
+  }
+}

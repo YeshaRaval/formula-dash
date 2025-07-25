@@ -1,0 +1,534 @@
+{
+  "1": {
+    "circuit_ref": "albert_park",
+    "circuit_name": "Albert Park Grand Prix Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.webp",
+    "local_path": "images/circuit_layouts/albert_park.webp",
+    "filename": "albert_park.webp"
+  },
+  "2": {
+    "circuit_ref": "sepang",
+    "circuit_name": "Sepang International Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/500px-Sepang.svg.png",
+    "local_path": "images/circuit_layouts/sepang.png",
+    "filename": "sepang.png"
+  },
+  "3": {
+    "circuit_ref": "bahrain",
+    "circuit_name": "Bahrain International Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.webp",
+    "local_path": "images/circuit_layouts/bahrain.webp",
+    "filename": "bahrain.webp"
+  },
+  "4": {
+    "circuit_ref": "catalunya",
+    "circuit_name": "Circuit de Barcelona-Catalunya",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.webp",
+    "local_path": "images/circuit_layouts/catalunya.webp",
+    "filename": "catalunya.webp"
+  },
+  "5": {
+    "circuit_ref": "istanbul",
+    "circuit_name": "Istanbul Park",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Turkey_Circuit.webp",
+    "local_path": "images/circuit_layouts/istanbul.webp",
+    "filename": "istanbul.webp"
+  },
+  "6": {
+    "circuit_ref": "monaco",
+    "circuit_name": "Circuit de Monaco",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit.webp",
+    "local_path": "images/circuit_layouts/monaco.webp",
+    "filename": "monaco.webp"
+  },
+  "7": {
+    "circuit_ref": "villeneuve",
+    "circuit_name": "Circuit Gilles Villeneuve",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.webp",
+    "local_path": "images/circuit_layouts/villeneuve.webp",
+    "filename": "villeneuve.webp"
+  },
+  "8": {
+    "circuit_ref": "magny_cours",
+    "circuit_name": "Circuit de Nevers Magny-Cours",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Circuit_de_Nevers_Magny-Cours.svg/500px-Circuit_de_Nevers_Magny-Cours.svg.png",
+    "local_path": "images/circuit_layouts/magny_cours.png",
+    "filename": "magny_cours.png"
+  },
+  "9": {
+    "circuit_ref": "silverstone",
+    "circuit_name": "Silverstone Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.webp",
+    "local_path": "images/circuit_layouts/silverstone.webp",
+    "filename": "silverstone.webp"
+  },
+  "10": {
+    "circuit_ref": "hockenheimring",
+    "circuit_name": "Hockenheimring",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Germany_Circuit_Hockenheim.webp",
+    "local_path": "images/circuit_layouts/hockenheimring.webp",
+    "filename": "hockenheimring.webp"
+  },
+  "11": {
+    "circuit_ref": "hungaroring",
+    "circuit_name": "Hungaroring",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.webp",
+    "local_path": "images/circuit_layouts/hungaroring.webp",
+    "filename": "hungaroring.webp"
+  },
+  "12": {
+    "circuit_ref": "valencia",
+    "circuit_name": "Valencia Street Circuit",
+    "original_url": "https://static.wikia.nocookie.net/f1wikia/images/8/88/Circuit_Valencia_street.png/revision/latest?cb=20120419040009",
+    "local_path": "images/circuit_layouts/valencia.png",
+    "filename": "valencia.png"
+  },
+  "13": {
+    "circuit_ref": "spa",
+    "circuit_name": "Circuit de Spa-Francorchamps",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.webp",
+    "local_path": "images/circuit_layouts/spa.webp",
+    "filename": "spa.webp"
+  },
+  "14": {
+    "circuit_ref": "monza",
+    "circuit_name": "Autodromo Nazionale di Monza",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.webp",
+    "local_path": "images/circuit_layouts/monza.webp",
+    "filename": "monza.webp"
+  },
+  "15": {
+    "circuit_ref": "marina_bay",
+    "circuit_name": "Marina Bay Street Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.webp",
+    "local_path": "images/circuit_layouts/marina_bay.webp",
+    "filename": "marina_bay.webp"
+  },
+  "16": {
+    "circuit_ref": "fuji",
+    "circuit_name": "Fuji Speedway",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fuji.svg/960px-Fuji.svg.png",
+    "local_path": "images/circuit_layouts/fuji.png",
+    "filename": "fuji.png"
+  },
+  "17": {
+    "circuit_ref": "shanghai",
+    "circuit_name": "Shanghai International Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit.webp",
+    "local_path": "images/circuit_layouts/shanghai.webp",
+    "filename": "shanghai.webp"
+  },
+  "18": {
+    "circuit_ref": "interlagos",
+    "circuit_name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.webp",
+    "local_path": "images/circuit_layouts/interlagos.webp",
+    "filename": "interlagos.webp"
+  },
+  "19": {
+    "circuit_ref": "indianapolis",
+    "circuit_name": "Indianapolis Motor Speedway",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Indianapolis_Motor_Speedway_Grand_Prix_Road_Course_2024.svg/800px-Indianapolis_Motor_Speedway_Grand_Prix_Road_Course_2024.svg.png",
+    "local_path": "images/circuit_layouts/indianapolis.png",
+    "filename": "indianapolis.png"
+  },
+  "20": {
+    "circuit_ref": "nurburgring",
+    "circuit_name": "N\u00fcrburgring",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/N%C3%BCrburgring_-_Grand-Prix-Strecke.svg/500px-N%C3%BCrburgring_-_Grand-Prix-Strecke.svg.png",
+    "local_path": "images/circuit_layouts/nurburgring.png",
+    "filename": "nurburgring.png"
+  },
+  "21": {
+    "circuit_ref": "imola",
+    "circuit_name": "Autodromo Enzo e Dino Ferrari",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.webp",
+    "local_path": "images/circuit_layouts/imola.webp",
+    "filename": "imola.webp"
+  },
+  "22": {
+    "circuit_ref": "suzuka",
+    "circuit_name": "Suzuka Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.webp",
+    "local_path": "images/circuit_layouts/suzuka.webp",
+    "filename": "suzuka.webp"
+  },
+  "80": {
+    "circuit_ref": "vegas",
+    "circuit_name": "Las Vegas Strip Street Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.webp",
+    "local_path": "images/circuit_layouts/vegas.webp",
+    "filename": "vegas.webp"
+  },
+  "24": {
+    "circuit_ref": "yas_marina",
+    "circuit_name": "Yas Marina Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.webp",
+    "local_path": "images/circuit_layouts/yas_marina.webp",
+    "filename": "yas_marina.webp"
+  },
+  "25": {
+    "circuit_ref": "galvez",
+    "circuit_name": "Aut\u00f3dromo Juan y Oscar G\u00e1lvez",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez_-_zoomed_in.png",
+    "local_path": "images/circuit_layouts/galvez.png",
+    "filename": "galvez.png"
+  },
+  "26": {
+    "circuit_ref": "jerez",
+    "circuit_name": "Circuito de Jerez",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Circuito_de_Jerez_v2.svg/960px-Circuito_de_Jerez_v2.svg.png",
+    "local_path": "images/circuit_layouts/jerez.png",
+    "filename": "jerez.png"
+  },
+  "27": {
+    "circuit_ref": "estoril",
+    "circuit_name": "Aut\u00f3dromo do Estoril",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Estoril_track_map.svg/500px-Estoril_track_map.svg.png",
+    "local_path": "images/circuit_layouts/estoril.png",
+    "filename": "estoril.png"
+  },
+  "28": {
+    "circuit_ref": "okayama",
+    "circuit_name": "Okayama International Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Circuit_TI_%28Aida%29.png",
+    "local_path": "images/circuit_layouts/okayama.png",
+    "filename": "okayama.png"
+  },
+  "29": {
+    "circuit_ref": "adelaide",
+    "circuit_name": "Adelaide Street Circuit",
+    "original_url": "https://static.wikia.nocookie.net/f1wikia/images/a/a3/Adelaide_Street_Circuit.png/revision/latest?cb=20190701164140",
+    "local_path": "images/circuit_layouts/adelaide.png",
+    "filename": "adelaide.png"
+  },
+  "30": {
+    "circuit_ref": "kyalami",
+    "circuit_name": "Kyalami",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kyalami_16.png",
+    "local_path": "images/circuit_layouts/kyalami.png",
+    "filename": "kyalami.png"
+  },
+  "31": {
+    "circuit_ref": "donington",
+    "circuit_name": "Donington Park",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Donington_circuit.svg/800px-Donington_circuit.svg.png",
+    "local_path": "images/circuit_layouts/donington.png",
+    "filename": "donington.png"
+  },
+  "32": {
+    "circuit_ref": "rodriguez",
+    "circuit_name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.webp",
+    "local_path": "images/circuit_layouts/rodriguez.webp",
+    "filename": "rodriguez.webp"
+  },
+  "33": {
+    "circuit_ref": "phoenix",
+    "circuit_name": "Phoenix street circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Circuit_Phoenix.png",
+    "local_path": "images/circuit_layouts/phoenix.png",
+    "filename": "phoenix.png"
+  },
+  "34": {
+    "circuit_ref": "ricard",
+    "circuit_name": "Circuit Paul Ricard",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/France_Circuit.webp",
+    "local_path": "images/circuit_layouts/ricard.webp",
+    "filename": "ricard.webp"
+  },
+  "35": {
+    "circuit_ref": "yeongam",
+    "circuit_name": "Korean International Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Korea_international_circuit_v3.svg/1200px-Korea_international_circuit_v3.svg.png",
+    "local_path": "images/circuit_layouts/yeongam.png",
+    "filename": "yeongam.png"
+  },
+  "36": {
+    "circuit_ref": "jacarepagua",
+    "circuit_name": "Aut\u00f3dromo Internacional Nelson Piquet",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Jacarepagu%C3%A1-short_circuit.png/1200px-Jacarepagu%C3%A1-short_circuit.png",
+    "local_path": "images/circuit_layouts/jacarepagua.png",
+    "filename": "jacarepagua.png"
+  },
+  "37": {
+    "circuit_ref": "detroit",
+    "circuit_name": "Detroit Street Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Circuit_Detroit_F1_1983-1988.png",
+    "local_path": "images/circuit_layouts/detroit.png",
+    "filename": "detroit.png"
+  },
+  "38": {
+    "circuit_ref": "brands_hatch",
+    "circuit_name": "Brands Hatch",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brands_Hatch.svg/800px-Brands_Hatch.svg.png",
+    "local_path": "images/circuit_layouts/brands_hatch.png",
+    "filename": "brands_hatch.png"
+  },
+  "39": {
+    "circuit_ref": "zandvoort",
+    "circuit_name": "Circuit Park Zandvoort",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.webp",
+    "local_path": "images/circuit_layouts/zandvoort.webp",
+    "filename": "zandvoort.webp"
+  },
+  "40": {
+    "circuit_ref": "zolder",
+    "circuit_name": "Zolder",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zolder.svg/800px-Zolder.svg.png",
+    "local_path": "images/circuit_layouts/zolder.png",
+    "filename": "zolder.png"
+  },
+  "41": {
+    "circuit_ref": "dijon",
+    "circuit_name": "Dijon-Prenois",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dijon-Prenois_Circuit.svg/1200px-Dijon-Prenois_Circuit.svg.png",
+    "local_path": "images/circuit_layouts/dijon.png",
+    "filename": "dijon.png"
+  },
+  "42": {
+    "circuit_ref": "dallas",
+    "circuit_name": "Fair Park",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Circuit_Fair_Park_Dallas.svg/520px-Circuit_Fair_Park_Dallas.svg.png",
+    "local_path": "images/circuit_layouts/dallas.png",
+    "filename": "dallas.png"
+  },
+  "43": {
+    "circuit_ref": "long_beach",
+    "circuit_name": "Long Beach",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Long_Beach_1978-1981.png",
+    "local_path": "images/circuit_layouts/long_beach.png",
+    "filename": "long_beach.png"
+  },
+  "44": {
+    "circuit_ref": "las_vegas",
+    "circuit_name": "Las Vegas Street Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.webp",
+    "local_path": "images/circuit_layouts/las_vegas.webp",
+    "filename": "las_vegas.webp"
+  },
+  "45": {
+    "circuit_ref": "jarama",
+    "circuit_name": "Jarama",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Circuito_Permanente_del_Jarama.svg/800px-Circuito_Permanente_del_Jarama.svg.png",
+    "local_path": "images/circuit_layouts/jarama.png",
+    "filename": "jarama.png"
+  },
+  "46": {
+    "circuit_ref": "watkins_glen",
+    "circuit_name": "Watkins Glen",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Watkins_Glen_International_Circuit_Map.png",
+    "local_path": "images/circuit_layouts/watkins_glen.png",
+    "filename": "watkins_glen.png"
+  },
+  "47": {
+    "circuit_ref": "anderstorp",
+    "circuit_name": "Scandinavian Raceway",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Scandinavian_Raceway.svg/2560px-Scandinavian_Raceway.svg.png",
+    "local_path": "images/circuit_layouts/anderstorp.png",
+    "filename": "anderstorp.png"
+  },
+  "48": {
+    "circuit_ref": "mosport",
+    "circuit_name": "Mosport International Raceway",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mosport-CTMP.svg/800px-Mosport-CTMP.svg.png",
+    "local_path": "images/circuit_layouts/mosport.png",
+    "filename": "mosport.png"
+  },
+  "49": {
+    "circuit_ref": "montjuic",
+    "circuit_name": "Montju\u00efc",
+    "original_url": "https://static.wikia.nocookie.net/f1wikia/images/b/b6/Circuit_MontjuichPark.png/revision/latest?cb=20160413012746",
+    "local_path": "images/circuit_layouts/montjuic.png",
+    "filename": "montjuic.png"
+  },
+  "50": {
+    "circuit_ref": "nivelles",
+    "circuit_name": "Nivelles-Baulers",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Circuit_Nivelles-Baulers.png",
+    "local_path": "images/circuit_layouts/nivelles.png",
+    "filename": "nivelles.png"
+  },
+  "51": {
+    "circuit_ref": "charade",
+    "circuit_name": "Charade Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Circuit_Charade_1958_1988.png",
+    "local_path": "images/circuit_layouts/charade.png",
+    "filename": "charade.png"
+  },
+  "52": {
+    "circuit_ref": "tremblant",
+    "circuit_name": "Circuit Mont-Tremblant",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Circuit_Mont-Tremblant_Track_Map.svg/1200px-Circuit_Mont-Tremblant_Track_Map.svg.png",
+    "local_path": "images/circuit_layouts/tremblant.png",
+    "filename": "tremblant.png"
+  },
+  "53": {
+    "circuit_ref": "essarts",
+    "circuit_name": "Rouen-Les-Essarts",
+    "original_url": "https://static.wikia.nocookie.net/f1wikia/images/c/c3/Rouen_Les_Essarts_1955.png/revision/latest?cb=20160528123830",
+    "local_path": "images/circuit_layouts/essarts.png",
+    "filename": "essarts.png"
+  },
+  "54": {
+    "circuit_ref": "lemans",
+    "circuit_name": "Le Mans",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Circuit_Le_Mans_Bugatti.png",
+    "local_path": "images/circuit_layouts/lemans.png",
+    "filename": "lemans.png"
+  },
+  "55": {
+    "circuit_ref": "reims",
+    "circuit_name": "Reims-Gueux",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Circuit-Reims-1954.png/500px-Circuit-Reims-1954.png",
+    "local_path": "images/circuit_layouts/reims.png",
+    "filename": "reims.png"
+  },
+  "56": {
+    "circuit_ref": "george",
+    "circuit_name": "Prince George Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prince_George_Circuit.svg/800px-Prince_George_Circuit.svg.png",
+    "local_path": "images/circuit_layouts/george.png",
+    "filename": "george.png"
+  },
+  "57": {
+    "circuit_ref": "zeltweg",
+    "circuit_name": "Zeltweg",
+    "original_url": "https://static.wikia.nocookie.net/f1wikia/images/a/a4/Circuit_Zeltweg.png/revision/latest?cb=20160801085439",
+    "local_path": "images/circuit_layouts/zeltweg.png",
+    "filename": "zeltweg.png"
+  },
+  "58": {
+    "circuit_ref": "aintree",
+    "circuit_name": "Aintree",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/800px-Circuit_Aintree.svg.png",
+    "local_path": "images/circuit_layouts/aintree.png",
+    "filename": "aintree.png"
+  },
+  "59": {
+    "circuit_ref": "boavista",
+    "circuit_name": "Circuito da Boavista",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Circuit_Boavista.png",
+    "local_path": "images/circuit_layouts/boavista.png",
+    "filename": "boavista.png"
+  },
+  "60": {
+    "circuit_ref": "riverside",
+    "circuit_name": "Riverside International Raceway",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Riverside_International_Raceway_1980_and_1967.svg/1024px-Riverside_International_Raceway_1980_and_1967.svg.png",
+    "local_path": "images/circuit_layouts/riverside.png",
+    "filename": "riverside.png"
+  },
+  "61": {
+    "circuit_ref": "avus",
+    "circuit_name": "AVUS",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Circuit_AVUS.svg/500px-Circuit_AVUS.svg.png",
+    "local_path": "images/circuit_layouts/avus.png",
+    "filename": "avus.png"
+  },
+  "62": {
+    "circuit_ref": "monsanto",
+    "circuit_name": "Monsanto Park Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Circuit_Monsanto.png",
+    "local_path": "images/circuit_layouts/monsanto.png",
+    "filename": "monsanto.png"
+  },
+  "63": {
+    "circuit_ref": "sebring",
+    "circuit_name": "Sebring International Raceway",
+    "original_url": "https://static.wikia.nocookie.net/automobile/images/6/65/Sebring_International_Raceway.svg.png/revision/latest/scale-to-width-down/1024?cb=20140731002810",
+    "local_path": "images/circuit_layouts/sebring.png",
+    "filename": "sebring.png"
+  },
+  "64": {
+    "circuit_ref": "ain-diab",
+    "circuit_name": "Ain Diab",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ain-Diab.svg/1200px-Ain-Diab.svg.png",
+    "local_path": "images/circuit_layouts/ain-diab.png",
+    "filename": "ain-diab.png"
+  },
+  "65": {
+    "circuit_ref": "pescara",
+    "circuit_name": "Pescara Circuit",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Circuit_Pescara.svg/982px-Circuit_Pescara.svg.png",
+    "local_path": "images/circuit_layouts/pescara.png",
+    "filename": "pescara.png"
+  },
+  "66": {
+    "circuit_ref": "bremgarten",
+    "circuit_name": "Circuit Bremgarten",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Circuit_Bremgarten.svg/1200px-Circuit_Bremgarten.svg.png",
+    "local_path": "images/circuit_layouts/bremgarten.png",
+    "filename": "bremgarten.png"
+  },
+  "67": {
+    "circuit_ref": "pedralbes",
+    "circuit_name": "Circuit de Pedralbes",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Circuit_Pedralbes.png",
+    "local_path": "images/circuit_layouts/pedralbes.png",
+    "filename": "pedralbes.png"
+  },
+  "69": {
+    "circuit_ref": "americas",
+    "circuit_name": "Circuit of the Americas",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.webp",
+    "local_path": "images/circuit_layouts/americas.webp",
+    "filename": "americas.webp"
+  },
+  "70": {
+    "circuit_ref": "red_bull_ring",
+    "circuit_name": "Red Bull Ring",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.webp",
+    "local_path": "images/circuit_layouts/red_bull_ring.webp",
+    "filename": "red_bull_ring.webp"
+  },
+  "71": {
+    "circuit_ref": "sochi",
+    "circuit_name": "Sochi Autodrom",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Russia_Circuit.webp",
+    "local_path": "images/circuit_layouts/sochi.webp",
+    "filename": "sochi.webp"
+  },
+  "73": {
+    "circuit_ref": "baku",
+    "circuit_name": "Baku City Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.webp",
+    "local_path": "images/circuit_layouts/baku.webp",
+    "filename": "baku.webp"
+  },
+  "75": {
+    "circuit_ref": "portimao",
+    "circuit_name": "Aut\u00f3dromo Internacional do Algarve",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aut%C3%B3dromo_do_Algarve_F1_Sectors.svg/1200px-Aut%C3%B3dromo_do_Algarve_F1_Sectors.svg.png",
+    "local_path": "images/circuit_layouts/portimao.png",
+    "filename": "portimao.png"
+  },
+  "76": {
+    "circuit_ref": "mugello",
+    "circuit_name": "Autodromo Internazionale del Mugello",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mugello_Racing_Circuit_track_map_15_turns.svg/1200px-Mugello_Racing_Circuit_track_map_15_turns.svg.png",
+    "local_path": "images/circuit_layouts/mugello.png",
+    "filename": "mugello.png"
+  },
+  "77": {
+    "circuit_ref": "jeddah",
+    "circuit_name": "Jeddah Corniche Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.webp",
+    "local_path": "images/circuit_layouts/jeddah.webp",
+    "filename": "jeddah.webp"
+  },
+  "78": {
+    "circuit_ref": "losail",
+    "circuit_name": "Losail International Circuit",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.webp",
+    "local_path": "images/circuit_layouts/losail.webp",
+    "filename": "losail.webp"
+  },
+  "79": {
+    "circuit_ref": "miami",
+    "circuit_name": "Miami International Autodrome",
+    "original_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.webp",
+    "local_path": "images/circuit_layouts/miami.webp",
+    "filename": "miami.webp"
+  }
+}

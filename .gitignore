@@ -1,0 +1,27 @@
+formula1/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+formula1/  # Your virtual environment
+ENV/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (if they're too big or sensitive)
+# data/*.csv  # Uncomment if you don't want to track CSVs
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db" > .gitignore
