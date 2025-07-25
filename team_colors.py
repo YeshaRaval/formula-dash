@@ -2,7 +2,8 @@
 F1 Team Color Mapping Script
 This script creates a comprehensive mapping of F1 team colors based on their official brand colors.
 """
-
+import warnings
+warnings.filterwarnings('ignore')
 import pandas as pd
 
 # Official F1 team colors (hex codes) - 2024 season and historical teams
@@ -79,18 +80,16 @@ def create_team_color_mapping():
         
         # Create color mapping
         color_mapping = {}
+        # No need to track missing teams for printing
         
         for _, row in constructors_df.iterrows():
             constructor_ref = row['constructorRef']
-            constructor_name = row['name']
-            
             # Map constructor reference to color
             if constructor_ref in TEAM_COLORS:
                 color_mapping[constructor_ref] = TEAM_COLORS[constructor_ref]
             else:
-                # Use default color for unmapped teams
+                # Use default color for unmapped teams, silently
                 color_mapping[constructor_ref] = TEAM_COLORS['default']
-                print(f"Warning: No color defined for {constructor_ref} ({constructor_name}), using default gray")
         
         return color_mapping
     
