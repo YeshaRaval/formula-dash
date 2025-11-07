@@ -12,7 +12,7 @@ def load_data():
     try:
         # Check if local images CSV exists, otherwise use original
         local_images_file = 'f1_data/circuits_with_local_images.csv'
-        original_file = 'f1_data/circuits_updated.csv'
+        original_file = 'f1_data/circuits.csv'
         
         if os.path.exists(local_images_file):
             circuits_file = local_images_file

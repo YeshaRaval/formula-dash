@@ -30,13 +30,16 @@ def create_top_navigation(data):
     with col1:
         # Season filter
         seasons = sorted(data['races']['year'].unique(), reverse=True)
-        # Find 2025 season index if it exists
-        try:
-            season_2025_index = seasons.index(2025) if 2025 in seasons else 0
-        except:
-            season_2025_index = 0
         
-        selected_season = st.selectbox("📅 Select Season", seasons, index=season_2025_index, key="season_select")
+        # Find the most recent season with race results
+        default_season_index = 0
+        for idx, season in enumerate(seasons):
+            season_race_ids = data['races'][data['races']['year'] == season]['raceId'].values
+            if len(data['results'][data['results']['raceId'].isin(season_race_ids)]) > 0:
+                default_season_index = idx
+                break
+        
+        selected_season = st.selectbox("📅 Select Season", seasons, index=default_season_index, key="season_select")
     
     # Get races for selected season
     season_races = get_season_races(data, selected_season)
@@ -49,7 +52,7 @@ def create_top_navigation(data):
         st.session_state['current_season'] = selected_season
         
         with col2:
-            # Determine default race based on season
+            # Determine default race - find the most recent race with results
             default_index = 0
             
             # Check if season changed to reset race selection
@@ -57,15 +60,21 @@ def create_top_navigation(data):
             season_changed = previous_season is not None and previous_season != selected_season
             st.session_state['previous_season'] = selected_season
             
-            if selected_season == 2025:
-                # For 2025, default to British Grand Prix if available
-                for i, option in enumerate(race_options):
-                    if "British" in option:
-                        default_index = i
+            # Find the most recent race with results for this season
+            if season_changed or 'navigate_to_round' not in st.session_state:
+                latest_race_with_results = None
+                for _, race in season_races.sort_values('round', ascending=False).iterrows():
+                    race_results = data['results'][data['results']['raceId'] == race['raceId']]
+                    if len(race_results) > 0:
+                        latest_race_with_results = race['round']
                         break
-            else:
-                # For other years, default to Round 1 (first race)
-                default_index = 0
+                
+                if latest_race_with_results:
+                    for i, option in enumerate(race_options):
+                        round_num = int(option.split(":")[0].replace("Round ", ""))
+                        if round_num == latest_race_with_results:
+                            default_index = i
+                            break
             
             # Check if we need to navigate to a specific round (but not if season just changed)
             navigate_to_round = st.session_state.get('navigate_to_round', None)

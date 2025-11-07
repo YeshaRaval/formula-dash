@@ -50,10 +50,12 @@ statusId,status
 49,Track rod
 50,+17 Laps
 51,Oil pressure
+128,+42 Laps
 53,+13 Laps
 54,Withdrew
 55,+12 Laps
 56,Engine fire
+129,Engine misfire
 58,+26 Laps
 59,Tyre puncture
 60,Out of fuel
@@ -124,8 +126,6 @@ statusId,status
 125,+46 Laps
 126,Supercharger
 127,+20 Laps
-128,+42 Laps
-129,Engine misfire
 130,Collision damage
 131,Power Unit
 132,ERS
