@@ -427,7 +427,7 @@ def display_qualifying_progression_all_drivers(quali_display, data, race_id=None
                 fig.data[i].customdata = [[t] for t in formatted_times]
                 fig.data[i].hovertemplate = f'<b>{display_name}</b><br>Session: %{{x}}<br>Time: %{{customdata[0]}}<extra></extra>'
             
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No qualifying progression data available")
     else:

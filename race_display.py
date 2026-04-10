@@ -381,7 +381,7 @@ def format_time_mmssms(seconds):
             </style>
             """, unsafe_allow_html=True)
             
-            st.dataframe(df, use_container_width=True, hide_index=True)
+            st.dataframe(df, width="stretch", hide_index=True)
             
             # Add interactive Plotly graph for comparing qualifying times
             st.write("")
@@ -545,7 +545,7 @@ def format_time_mmssms(seconds):
                         customdata=[[label] for label in time_labels]
                     )
                     
-                    st.plotly_chart(fig, use_container_width=True)
+                    st.plotly_chart(fig, width="stretch")
             else:
                 st.warning(f"One or both drivers don't have {session} data available.")
 # Qualifying function moved to qualifying.py module
@@ -1064,7 +1064,7 @@ def display_race_results_grid(race_results, data):
                         fig_laptime.data[i].customdata = [[t] for t in formatted_times]
                         fig_laptime.data[i].hovertemplate = '<b>%{fullData.name}</b><br>Lap: %{x}<br>Time: %{customdata[0]}<extra></extra>'
                     
-                    st.plotly_chart(fig_laptime, use_container_width=True)
+                    st.plotly_chart(fig_laptime, width="stretch")
                 else:
                     st.info("Lap time data not available for selected drivers")
             
@@ -1139,7 +1139,7 @@ def display_race_results_grid(race_results, data):
                         font=dict(size=16)
                     )
                     
-                    st.plotly_chart(fig_position, use_container_width=True)
+                    st.plotly_chart(fig_position, width="stretch")
                     
                     # Add position progression summary
                     st.write("")
@@ -1419,7 +1419,7 @@ def display_race_results_grid(race_results, data):
                             showlegend=False
                         )
                         
-                        st.plotly_chart(fig_leadership, use_container_width=True)
+                        st.plotly_chart(fig_leadership, width="stretch")
                         
                         # Group by driver and count laps led
                         laps_led = leaders_data.groupby('driverId').size().reset_index(name='laps_led')
@@ -1457,7 +1457,7 @@ def display_race_results_grid(race_results, data):
                             showlegend=False
                         )
                         
-                        st.plotly_chart(fig_leaders, use_container_width=True)
+                        st.plotly_chart(fig_leaders, width="stretch")
                     else:
                         st.info("Race leader data not available")
                 except Exception as e:
@@ -1510,7 +1510,7 @@ def display_race_results_grid(race_results, data):
                             font=dict(size=14)
                         )
                         
-                        st.plotly_chart(fig2, use_container_width=True)
+                        st.plotly_chart(fig2, width="stretch")
                     else:
                         st.info("No pit stop data available for visualization")
                 else:
@@ -2045,7 +2045,7 @@ def display_driver_standings_after_race(race_id, data):
                                     font=dict(size=14)
                                 )
                                 
-                                st.plotly_chart(fig_progression, use_container_width=True)
+                                st.plotly_chart(fig_progression, width="stretch")
                             else:
                                 st.info("Points progression data not available")
                         else:
@@ -2104,7 +2104,7 @@ def display_driver_standings_after_race(race_id, data):
                                 showlegend=False
                             )
                             
-                            st.plotly_chart(fig_wins, use_container_width=True)
+                            st.plotly_chart(fig_wins, width="stretch")
                         else:
                             st.info("No wins data available")
                     else:
@@ -2160,7 +2160,7 @@ def display_driver_standings_after_race(race_id, data):
                                 showlegend=False
                             )
                             
-                            st.plotly_chart(fig_podiums, use_container_width=True)
+                            st.plotly_chart(fig_podiums, width="stretch")
                         else:
                             st.info("No podium data available")
                     else:
@@ -2216,7 +2216,7 @@ def display_driver_standings_after_race(race_id, data):
                                 font=dict(size=14)
                             )
                             
-                            st.plotly_chart(fig_points, use_container_width=True)
+                            st.plotly_chart(fig_points, width="stretch")
                         else:
                             st.info("No points data available")
                     else:
@@ -2404,7 +2404,7 @@ def display_constructor_standings_after_race(race_id, data):
                                     font=dict(size=14)
                                 )
                                 
-                                st.plotly_chart(fig_progression, use_container_width=True)
+                                st.plotly_chart(fig_progression, width="stretch")
                             else:
                                 st.info("Points progression not available")
                         else:
@@ -2450,7 +2450,7 @@ def display_constructor_standings_after_race(race_id, data):
                                 font=dict(size=14),
                                 showlegend=False
                             )
-                            st.plotly_chart(fig_wins, use_container_width=True)
+                            st.plotly_chart(fig_wins, width="stretch")
                         else:
                             st.info("No wins data available")
                     else:
@@ -2495,7 +2495,7 @@ def display_constructor_standings_after_race(race_id, data):
                                 showlegend=False
                             )
                             
-                            st.plotly_chart(fig_podiums, use_container_width=True)
+                            st.plotly_chart(fig_podiums, width="stretch")
                         else:
                             st.info("No podium data available")
                     else:
@@ -2536,7 +2536,7 @@ def display_constructor_standings_after_race(race_id, data):
                                 pass
                             
                             fig_points.update_layout(height=500, font=dict(size=14))
-                            st.plotly_chart(fig_points, use_container_width=True)
+                            st.plotly_chart(fig_points, width="stretch")
                         else:
                             st.info("No points data available")
                     else:
